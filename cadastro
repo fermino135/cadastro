@@ -1,0 +1,7 @@
+def menu ():
+    print("Menu de orientação")
+    print("1 Menu de cadastro")
+    print("2 Cadastrar")
+    print("3 ler registro")
+    print("4 atualizar")
+    print ("5 apagar")
